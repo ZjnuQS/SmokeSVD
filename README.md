@@ -1,5 +1,5 @@
-# **SmokeSVD: Smoke Reconstruction from A Single View via Progressive Novel View Synthesis and Refinement with Diffusion Models (CVPR 2026 Oral)**
-[arxiv.org/abs/2507.12156](https://arxiv.org/abs/2507.12156)
+# **SmokeSVD:Smoke Reconstruction from A Single View via Progressive Novel View Synthesis and Refinement with Diffusion Models (CVPR 2026 Oral)**
+**Authors:** [Chen Li](https://cs.tjut.edu.cn/info/1217/2502.htm), [Shanshan Dong](https://github.com/dongss414), [Sheng Qiu](https://github.com/ZjnuQS), [Jianmin Han](https://mypage.zjnu.edu.cn/HJM1/zh_CN/index.htm), [Yibo Zhao](https://cs.tjut.edu.cn/info/1226/2741.htm), [Zan Gao](https://cs.tjut.edu.cn/info/1214/2193.htm), [Taku Komura](https://i.cs.hku.hk/~taku/), [Kemeng Huang](https://kemenghuang.github.io/) ([Paper](https://arxiv.org/abs/2507.12156)•[Video](https://www.youtube.com/watch?v=UE4sH1niy4o))
 
 ![cover](assets/cover.png)
 
@@ -7,7 +7,7 @@
 
 ![framework](assets/framework.png)
 
-Given a single-view smoke video, SmokeSVD:
+Given a single-view smoke video, **SmokeSVD**:
 
 1. **Synthesizes an auxiliary side view** to reduce geometric ambiguity.
 2. **Progressively refines novel views** from near to far angles with a cyclic 2D↔3D loop.
@@ -15,7 +15,7 @@ Given a single-view smoke video, SmokeSVD:
 
 ---
 
-## **Installation**
+## **Quick Installation**
 
 ```
 # build environment with python 3.10
