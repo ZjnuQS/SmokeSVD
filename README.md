@@ -1,4 +1,4 @@
-# [SmokeSVD: Smoke Reconstruction from A Single View via Progressive Novel View Synthesis and Refinement with Diffusion Models. (CVPR 2026 Oral)](https://arxiv.org/abs/2507.12156)
+# [SmokeSVD: Smoke Reconstruction from A Single View via Progressive Novel View Synthesis and Refinement with Diffusion Models (CVPR 2026 Oral)](https://arxiv.org/abs/2507.12156)
 
 ![cover](assets/cover.png)
 
